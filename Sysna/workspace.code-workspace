@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\exch"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sysna"
+	}
+}

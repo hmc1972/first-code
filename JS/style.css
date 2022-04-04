@@ -1,0 +1,13 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    line-height: normal;
+    width: 100%;
+    padding: 30px;
+}

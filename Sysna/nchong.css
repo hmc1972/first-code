@@ -1,0 +1,87 @@
+
+body {
+    background-image: url('sysna\ logo.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 70%;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+    top: 150px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+h1, h2, h3 {
+  font-size: x-large;
+  font-family: sans-serif;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #e7e7e7;
+  background-color: #f3f3f3;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #666;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+li a.active {
+  color: white;
+  background-color: #04AA6D;
+}
+
+img {
+  background-color: rgb(10, 10, 10);
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+.amex {
+  background-color: rgb(243, 9, 9);
+  margin-bottom: 10px;
+  padding-top: 10px;
+}
+.engineering, .compLang {
+  background-color: yellow; /* Green background with 30% opacity */
+  opacity: none;
+  color: red;
+  border: 1.5px solid black;
+  margin: 5px;
+  padding: 5px;
+  width:400px;
+}
+table.N_list {
+  border-collapse: collapse;
+  width: 600px;
+  height: 200px;
+  margin-bottom: 10px;
+  background-color: yellow;
+  text-align: center;
+}
+
+table.N_name {
+
+  background-color: yellow;
+
+}
